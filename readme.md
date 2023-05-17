@@ -14,7 +14,6 @@ technologies apprises au cours de techniques avancées.
 Votre projet doit répondre aux critères suivants :
 
 ● Créer un serveur node js
-
 ● Récupérer les données depuis de l'API (REst)
 
 ● Enregistrez la réponse dans un fichier JSON, le fichier doit être mis à jour à chaque démarrage du serveur node js.
