@@ -19,8 +19,12 @@ export default class extends AbstractView {
         const data = await getData('/static/js/views/posts.json')
 
         const article = data.find(item => item.date == nu)
-
+        console.log(article.copyright);
         
+        if (article.copyright == undefined){
+            article.copyright = '';
+        }
+        console.log(article.copyright);
         
         return `
         <h1>`+article.title+`</h1>
