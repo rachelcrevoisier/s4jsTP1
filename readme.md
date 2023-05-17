@@ -3,14 +3,18 @@
 Félicitations, vous avez reçu un mandat pour créer un site web permettant de
 récupérer les données d'une API (liste de suggestions en bas) de votre choix* et
 de les afficher dans une page HTML.
-Suggestion: https://github.com/public-apis/public-apis
+
 *Faites attention au choix de votre API, elle doit vous permettre d'effectuer toutes
 les tâches demandées (utilisez le fichier .env pour masquer les identifiants (Keys),
 fournir des données générales et des détails de données).
+
 Pour mener à bien cette tâche, vous avez à votre disposition les nouvelles
 technologies apprises au cours de techniques avancées.
-Votre projet doit répondre aux critères suivants.
+
+Votre projet doit répondre aux critères suivants :
+
 ● Créer un serveur node js
+
 ● Récupérer les données depuis de l'API (REst)
 ● Enregistrez la réponse dans un fichier JSON, le fichier doit être mis à jour
 à chaque démarrage du serveur node js.
@@ -25,9 +29,5 @@ informations sur l'entreprise)
 .env
 ● Publiez votre projet sur GitHub – privilège public.
 ● Enregistrez une courte vidéo de votre écran (max 3 min) avec le projet en
-cours d'exécution sur votre environnement local. Présentez toutes les
-3
-Conception et programmation de sites Web
-582-31VB-MA - Programmation Web avancée
-pages et fonctions au fur et à mesure que le côté serveur change. Envoyez
+cours d'exécution sur votre environnement local. Présentez toutes les pages et fonctions au fur et à mesure que le côté serveur change. Envoyez
 la vidéo avec le projet.
